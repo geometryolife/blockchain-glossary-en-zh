@@ -2,9 +2,12 @@
 
 | English 英文                                            | Chinese 中文                       | Note 备注                                                         |
 |---------------------------------------------------------|------------------------------------|-------------------------------------------------------------------|
+| annual percentage rate (APR)                            | 年利率、年度利率、年化收益率       |                                                                   |
 | application-specific integrated circuit (ASIC)          | 专用集成电路、特殊应用集成电路     |                                                                   |
 | automated market maker (AMM)                            | 自动做市商                         |                                                                   |
 | Bitcoin (BTC, XBT)                                      | 比特币                             |                                                                   |
+| centralized exchange (CEX)                              | 中心化交易所                       | 如：CoinEx                                                        |
+| Coordinated Universal Time (UTC)                        | 协调世界时                         |                                                                   |
 | cryptocurrency                                          | 加密货币、密码（学）货币           | 还写作：crypto-currency、crypto、coin                             |
 | cryptocurrency exchange, digital currency echange (DCE) | 加密货币交易所                     |                                                                   |
 | decentralized autonomous orgnization (DAO)              | 去中心化自治组织、道               | 又称：DAC                                                         |
@@ -22,9 +25,12 @@
 | euro (EUR)                                              | 欧元                               | 港澳俗称：欧罗                                                    |
 | federated blockchain                                    | 联盟链                             | 鲸探                                                              |
 | gas                                                     | 油费、燃料、燃料费                 | 交易手续费的概念扩展                                              |
+| Greenwich Mean Time (GMT)                               | 格林尼治标准时间、格林尼治平均时间 |                                                                   |
 | hard fork                                               | 硬分叉                             |                                                                   |
 | hybrid blockchain                                       | 混合链                             |                                                                   |
 | initial coin offering (ICO)                             | 首次代币发行                       | 又称：ICO 众筹                                                    |
+| liquidity provider (LP)                                 | 流动性提供者                       | 是促进证券或金融产品交易的做市商（market maker）                  |
+| liquidity provider token (LP Token)                     | 流动性提供者代币                   | 提供流动性证明的代币                                              |
 | Move (programming language)                             |                                    | 用 Rust 开发，用于编写智能合约，Starcoin 是第一条使用 Move 的公链 |
 | multisignature                                          | 多重签名                           | 还写作：multisig、multi-signature                                 |
 | non-fungible token (NFT)                                | 非同质化代币                       |                                                                   |
@@ -37,9 +43,11 @@
 | public blockchain                                       | 共有链                             | BTC、ETH                                                          |
 | renminbi (CNY, RMB)                                     | 人民币                             |                                                                   |
 | sidechain                                               | 侧链                               |                                                                   |
+| Singapore Standard Time (SGT)                           | 新加坡标准时间                     | UTC+8                                                             |
 | smart contract                                          | 智能合约                           |                                                                   |
 | soft fork                                               | 软分叉                             |                                                                   |
 | Solidity (programming language)                         |                                    | 用于以太坊平台编写智能合约                                        |
+| Total Value Locked (TVL)                                | 总锁定价值                         | 用户所抵押的数字资产的总价值                                      |
 | uncle block                                             | 叔块                               |                                                                   |
 | united states dollar (USD)                              | 美元、美金、（美）联储币           |                                                                   |
 | <++>                                                    | <++>                               | <++>                                                              |
