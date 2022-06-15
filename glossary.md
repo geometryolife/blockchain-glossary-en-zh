@@ -33,6 +33,7 @@
 | genesis block                                           | 创世（纪）块                       |                                                                   |
 | Greenwich Mean Time (GMT)                               | 格林尼治标准时间、格林尼治平均时间 |                                                                   |
 | hard fork                                               | 硬分叉                             |                                                                   |
+| hash-locking                                            | 哈希锁定                           |                                                                   |
 | hybrid blockchain                                       | 混合链                             |                                                                   |
 | initial coin offering (ICO)                             | 首次代币发行                       | 又称：ICO 众筹                                                    |
 | initial exchange offering (IEO)                         | 首次交易平台发行                   | ICO 的一种，由加密货币交易平台来举行                              |
@@ -42,6 +43,7 @@
 | Move (programming language)                             |                                    | 用 Rust 开发，用于编写智能合约，Starcoin 是第一条使用 Move 的公链 |
 | multisignature                                          | 多重签名                           | 还写作：multisig、multi-signature                                 |
 | non-fungible token (NFT)                                | 非同质化代币                       |                                                                   |
+| notary scheme                                           | 公证人机制                         |                                                                   |
 | over-the-counter (OTC), off-exchange                    | 场外交易                           | 又称：粉盘交易（pink sheet）                                      |
 | peer-to-peer (P2P)                                      | 点对点网络、对等式网络、点对点技术 |                                                                   |
 | PoS (proof of stake)                                    | 持有量证明、权益证明               |                                                                   |
